@@ -1,0 +1,387 @@
+fileFormatVersion: 2
+guid: 9fdb6dbeaeb836b438988c2ca8c6fb6c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2108020768022744757
+    second: buff_shoot_0
+  - first:
+      213: 4050130048029027022
+    second: buff_shoot_1
+  - first:
+      213: 5515285868784270109
+    second: buff_shoot_2
+  - first:
+      213: 1129420338627974767
+    second: buff_shoot_3
+  - first:
+      213: -3473999906237462851
+    second: buff_shoot_4
+  - first:
+      213: -2753957136471406213
+    second: buff_shoot_5
+  - first:
+      213: -8441133776118271185
+    second: buff_shoot_6
+  - first:
+      213: 1307509455467668878
+    second: buff_shoot_7
+  - first:
+      213: -3558836052315323567
+    second: buff_shoot_8
+  - first:
+      213: -788968933839127794
+    second: buff_shoot_9
+  - first:
+      213: -8717622333429834568
+    second: buff_shoot_10
+  - first:
+      213: -4341055043111547857
+    second: buff_shoot_11
+  - first:
+      213: 2216665499685347003
+    second: buff_shoot_12
+  - first:
+      213: 6286342876797744060
+    second: buff_shoot_13
+  - first:
+      213: -6692416934904534893
+    second: buff_shoot_14
+  - first:
+      213: 4135611532105537207
+    second: buff_shoot_15
+  - first:
+      213: 6946248116042239742
+    second: buff_shoot_16
+  - first:
+      213: -2168846179715486985
+    second: buff_shoot_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 2
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: buff_shoot_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 11
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be442148b1314d10800000000000000
+      internalID: 2108020768022744757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buff_shoot_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 11
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b3e93c64b3a8c40800000000000000
+      internalID: 5515285868784270109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buff_shoot_4
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 11
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db6c9f6cd7fd9cfc0800000000000000
+      internalID: -3473999906237462851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buff_shoot_6
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 11
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f233becbd811bda80800000000000000
+      internalID: -8441133776118271185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buff_shoot_8
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 11
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15344e747797c9ec0800000000000000
+      internalID: -3558836052315323567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buff_shoot_10
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 11
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc17e9fca8c40780800000000000000
+      internalID: -8717622333429834568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buff_shoot_12
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 11
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbedb9e078d23ce10800000000000000
+      internalID: 2216665499685347003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buff_shoot_14
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 11
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398e4327142cf13a0800000000000000
+      internalID: -6692416934904534893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buff_shoot_16
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 11
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe8c66dbd7066060800000000000000
+      internalID: 6946248116042239742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f542c38f23221ca4f9ec094361928ab0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      buff_shoot_0: 2108020768022744757
+      buff_shoot_1: 4050130048029027022
+      buff_shoot_10: -8717622333429834568
+      buff_shoot_11: -4341055043111547857
+      buff_shoot_12: 2216665499685347003
+      buff_shoot_13: 6286342876797744060
+      buff_shoot_14: -6692416934904534893
+      buff_shoot_15: 4135611532105537207
+      buff_shoot_16: 6946248116042239742
+      buff_shoot_17: -2168846179715486985
+      buff_shoot_2: 5515285868784270109
+      buff_shoot_3: 1129420338627974767
+      buff_shoot_4: -3473999906237462851
+      buff_shoot_5: -2753957136471406213
+      buff_shoot_6: -8441133776118271185
+      buff_shoot_7: 1307509455467668878
+      buff_shoot_8: -3558836052315323567
+      buff_shoot_9: -788968933839127794
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

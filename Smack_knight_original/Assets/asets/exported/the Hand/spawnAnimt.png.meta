@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: c32e0b36e0d6eaf4d948ee1d9216fc26
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2007011525126697810
+    second: spawnAnimt_0
+  - first:
+      213: 5936871307464024321
+    second: spawnAnimt_1
+  - first:
+      213: -7020226270685807150
+    second: spawnAnimt_2
+  - first:
+      213: 1899699910881812088
+    second: spawnAnimt_3
+  - first:
+      213: -2906142797944906988
+    second: spawnAnimt_4
+  - first:
+      213: 962133348238188942
+    second: spawnAnimt_5
+  - first:
+      213: 981163236468374677
+    second: spawnAnimt_6
+  - first:
+      213: -6417239192420612774
+    second: spawnAnimt_7
+  - first:
+      213: -9097999558401838112
+    second: spawnAnimt_8
+  - first:
+      213: 3566744887047944209
+    second: spawnAnimt_9
+  - first:
+      213: -4388140448586636381
+    second: spawnAnimt_10
+  - first:
+      213: 2735419895396195649
+    second: spawnAnimt_11
+  - first:
+      213: 4382178237314351450
+    second: spawnAnimt_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spawnAnimt_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 60
+        width: 65
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 253ba4739565adb10800000000000000
+      internalID: 2007011525126697810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawnAnimt_1
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 67
+        width: 66
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1012a9ecff0046250800000000000000
+      internalID: 5936871307464024321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawnAnimt_2
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 71
+        width: 67
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd38ecc665239e90800000000000000
+      internalID: -7020226270685807150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawnAnimt_3
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 75
+        width: 69
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e93fff0071d5a10800000000000000
+      internalID: 1899699910881812088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawnAnimt_4
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 90
+        width: 73
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b1fedc58e4ba7d0800000000000000
+      internalID: -2906142797944906988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawnAnimt_5
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 76
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e816b40ce2f2a5d00800000000000000
+      internalID: 962133348238188942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawnAnimt_6
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 31
+        width: 87
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59cbe50e3cacd9d00800000000000000
+      internalID: 981163236468374677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawnAnimt_7
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 22
+        width: 94
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a550e0954f261f6a0800000000000000
+      internalID: -6417239192420612774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawnAnimt_8
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 24
+        width: 93
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e33ccada996db180800000000000000
+      internalID: -9097999558401838112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawnAnimt_9
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 33
+        width: 75
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 118feecc39f9f7130800000000000000
+      internalID: 3566744887047944209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawnAnimt_10
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 36
+        width: 74
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a36879e2813a13c0800000000000000
+      internalID: -4388140448586636381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawnAnimt_11
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 56
+        width: 75
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d50a8e6e926f520800000000000000
+      internalID: 2735419895396195649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawnAnimt_12
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 59
+        width: 72
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51c19993ef90dc30800000000000000
+      internalID: 4382178237314351450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      spawnAnimt_0: 2007011525126697810
+      spawnAnimt_1: 5936871307464024321
+      spawnAnimt_10: -4388140448586636381
+      spawnAnimt_11: 2735419895396195649
+      spawnAnimt_12: 4382178237314351450
+      spawnAnimt_2: -7020226270685807150
+      spawnAnimt_3: 1899699910881812088
+      spawnAnimt_4: -2906142797944906988
+      spawnAnimt_5: 962133348238188942
+      spawnAnimt_6: 981163236468374677
+      spawnAnimt_7: -6417239192420612774
+      spawnAnimt_8: -9097999558401838112
+      spawnAnimt_9: 3566744887047944209
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

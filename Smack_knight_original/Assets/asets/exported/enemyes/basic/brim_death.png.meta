@@ -1,0 +1,556 @@
+fileFormatVersion: 2
+guid: ce1e43a45f54df94c81c853a1c001d89
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1643737495089935681
+    second: brim_death_0
+  - first:
+      213: -4118471257841076476
+    second: brim_death_1
+  - first:
+      213: 4283857759483201307
+    second: brim_death_2
+  - first:
+      213: -267285667208504189
+    second: brim_death_3
+  - first:
+      213: -8848597528440348824
+    second: brim_death_4
+  - first:
+      213: 6169733060273409440
+    second: brim_death_5
+  - first:
+      213: 9088059190471814325
+    second: brim_death_6
+  - first:
+      213: -3460894205927771796
+    second: brim_death_7
+  - first:
+      213: 59658627300709755
+    second: brim_death_8
+  - first:
+      213: 6298902683606001216
+    second: brim_death_9
+  - first:
+      213: 6502461242201448783
+    second: brim_death_10
+  - first:
+      213: -4759771241387898065
+    second: brim_death_11
+  - first:
+      213: 3157506847282416643
+    second: brim_death_12
+  - first:
+      213: 8961004660742700288
+    second: brim_death_13
+  - first:
+      213: -4363969901217449646
+    second: brim_death_14
+  - first:
+      213: 6793859989495659269
+    second: brim_death_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 15
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: brim_death_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba8c2505754039e0800000000000000
+      internalID: -1643737495089935681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brim_death_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 407f9ba263048d6c0800000000000000
+      internalID: -4118471257841076476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brim_death_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b170c467fe1537b30800000000000000
+      internalID: 4283857759483201307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brim_death_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38cdb701a196a4cf0800000000000000
+      internalID: -267285667208504189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brim_death_4
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 2
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86fd9e40e67733580800000000000000
+      internalID: -8848597528440348824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brim_death_5
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 2
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad8498978b4f9550800000000000000
+      internalID: 6169733060273409440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brim_death_6
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 3
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bcebc1eea54f1e70800000000000000
+      internalID: 9088059190471814325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brim_death_7
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 3
+        width: 20
+        height: 25
+      alignment: 9
+      pivot: {x: 0.52839816, y: 0.51703954}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c61b77a6e0f68ffc0800000000000000
+      internalID: -3460894205927771796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brim_death_8
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 4
+        width: 16
+        height: 24
+      alignment: 9
+      pivot: {x: 0.45562363, y: 0.5059164}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75db089433f3d000800000000000000
+      internalID: 59658627300709755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brim_death_9
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 4
+        width: 15
+        height: 21
+      alignment: 9
+      pivot: {x: 0.4905314, y: 0.52581763}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04627132e923a6750800000000000000
+      internalID: 6298902683606001216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brim_death_10
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 5
+        width: 15
+        height: 20
+      alignment: 9
+      pivot: {x: 0.4905314, y: 0.5070997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41a92b5c026d3a50800000000000000
+      internalID: 6502461242201448783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brim_death_11
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 5
+        width: 13
+        height: 17
+      alignment: 9
+      pivot: {x: 0.46905047, y: 0.5473387}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b44f83645e1fdb0800000000000000
+      internalID: -4759771241387898065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brim_death_12
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 8
+        width: 10
+        height: 16
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30cc1289fb7b1db20800000000000000
+      internalID: 3157506847282416643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brim_death_13
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 8
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d3032f242eb5c70800000000000000
+      internalID: 8961004660742700288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brim_death_14
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 9
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 259ff630f701073c0800000000000000
+      internalID: -4363969901217449646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brim_death_15
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 9
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50bb0af3aa3a84e50800000000000000
+      internalID: 6793859989495659269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brim_death_16
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 11
+        width: 3
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f443212f71a13f948b930ef7d61062c9
+      internalID: -216859551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5d0f406827b3ce444858d197b9100525
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      brim_death_0: -1643737495089935681
+      brim_death_1: -4118471257841076476
+      brim_death_10: 6502461242201448783
+      brim_death_11: -4759771241387898065
+      brim_death_12: 3157506847282416643
+      brim_death_13: 8961004660742700288
+      brim_death_14: -4363969901217449646
+      brim_death_15: 6793859989495659269
+      brim_death_16: -216859551
+      brim_death_2: 4283857759483201307
+      brim_death_3: -267285667208504189
+      brim_death_4: -8848597528440348824
+      brim_death_5: 6169733060273409440
+      brim_death_6: 9088059190471814325
+      brim_death_7: -3460894205927771796
+      brim_death_8: 59658627300709755
+      brim_death_9: 6298902683606001216
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

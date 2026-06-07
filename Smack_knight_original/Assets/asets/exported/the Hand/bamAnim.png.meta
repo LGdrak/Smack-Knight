@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: ba2f5c230c131d9469893d3eedbc1582
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5379820130861769251
+    second: bamAnim_0
+  - first:
+      213: 8032263598067993948
+    second: bamAnim_1
+  - first:
+      213: 587875469223587220
+    second: bamAnim_2
+  - first:
+      213: -7928973277231958025
+    second: bamAnim_3
+  - first:
+      213: -2696677345194578394
+    second: bamAnim_4
+  - first:
+      213: 5275715723909488232
+    second: bamAnim_5
+  - first:
+      213: 3562827464152304104
+    second: bamAnim_6
+  - first:
+      213: -927314104346871996
+    second: bamAnim_7
+  - first:
+      213: 5931204270900879213
+    second: bamAnim_8
+  - first:
+      213: -4718678502210439342
+    second: bamAnim_9
+  - first:
+      213: -6580907868832655316
+    second: bamAnim_10
+  - first:
+      213: 3450042240905247221
+    second: bamAnim_11
+  - first:
+      213: -9090162259937267670
+    second: bamAnim_12
+  - first:
+      213: 2353532750569990838
+    second: bamAnim_13
+  - first:
+      213: 2066108642338069817
+    second: bamAnim_14
+  - first:
+      213: -7861922164411623270
+    second: bamAnim_15
+  - first:
+      213: -4896000953842239257
+    second: bamAnim_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bamAnim_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 16
+        width: 81
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd1d70381a0755b0800000000000000
+      internalID: -5379820130861769251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bamAnim_1
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 8
+        width: 78
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5dc4298f25587f60800000000000000
+      internalID: 8032263598067993948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bamAnim_2
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 10
+        width: 87
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49dec33ef9d882800800000000000000
+      internalID: 587875469223587220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bamAnim_3
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 11
+        width: 87
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f7360950d0a6f190800000000000000
+      internalID: -7928973277231958025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bamAnim_4
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 32
+        width: 92
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e65ddfd3a739ad0800000000000000
+      internalID: -2696677345194578394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bamAnim_5
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 55
+        width: 96
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e519bbf7b173940800000000000000
+      internalID: 5275715723909488232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bamAnim_6
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 51
+        width: 96
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9cdc4b3b4b17130800000000000000
+      internalID: 3562827464152304104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bamAnim_7
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 37
+        width: 96
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 447f1373cb48123f0800000000000000
+      internalID: -927314104346871996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bamAnim_8
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 5
+        width: 94
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f93590cdedf4250800000000000000
+      internalID: 5931204270900879213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bamAnim_9
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 5
+        width: 88
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 257797227e2e38eb0800000000000000
+      internalID: -4718678502210439342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bamAnim_10
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 5
+        width: 87
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2818a2192beba4a0800000000000000
+      internalID: -6580907868832655316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bamAnim_11
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 6
+        width: 86
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f9ff35932301ef20800000000000000
+      internalID: 3450042240905247221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bamAnim_12
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 9
+        width: 83
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a20f6c9169149d180800000000000000
+      internalID: -9090162259937267670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bamAnim_13
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 11
+        width: 80
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bae8fc219d69a020800000000000000
+      internalID: 2353532750569990838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bamAnim_14
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 13
+        width: 74
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ddced0dda4cac10800000000000000
+      internalID: 2066108642338069817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bamAnim_15
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 18
+        width: 64
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a98997a1277d4e290800000000000000
+      internalID: -7861922164411623270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bamAnim_16
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 14
+        width: 71
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e872469219ed0cb0800000000000000
+      internalID: -4896000953842239257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bamAnim_0: -5379820130861769251
+      bamAnim_1: 8032263598067993948
+      bamAnim_10: -6580907868832655316
+      bamAnim_11: 3450042240905247221
+      bamAnim_12: -9090162259937267670
+      bamAnim_13: 2353532750569990838
+      bamAnim_14: 2066108642338069817
+      bamAnim_15: -7861922164411623270
+      bamAnim_16: -4896000953842239257
+      bamAnim_2: 587875469223587220
+      bamAnim_3: -7928973277231958025
+      bamAnim_4: -2696677345194578394
+      bamAnim_5: 5275715723909488232
+      bamAnim_6: 3562827464152304104
+      bamAnim_7: -927314104346871996
+      bamAnim_8: 5931204270900879213
+      bamAnim_9: -4718678502210439342
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

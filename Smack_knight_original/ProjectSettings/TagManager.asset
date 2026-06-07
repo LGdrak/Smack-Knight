@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - sword
+  - Soul_Blast
+  - Canvas
+  - Heart
+  - Spell
+  - Block
+  - dialogue
+  - enemyList
+  - RC
+  - bossBar
+  - bossHit
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - enemyes
+  - room
+  - walls
+  - player
+  - Block
+  - border
+  - Minimap
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 1314417959
+    locked: 0
+  - name: LandEnemyes
+    uniqueID: 65845917
+    locked: 0
+  - name: player
+    uniqueID: 3757104049
+    locked: 0
+  - name: Walls
+    uniqueID: 100465855
+    locked: 0
+  - name: Flying enemies
+    uniqueID: 1766087307
+    locked: 0
+  - name: Minimap
+    uniqueID: 1378162043
+    locked: 0
+  m_RenderingLayers:
+  - Default

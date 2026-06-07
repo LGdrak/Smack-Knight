@@ -1,0 +1,387 @@
+fileFormatVersion: 2
+guid: c0ba486906d256d408fb7e15bfe45709
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3083795937004852955
+    second: spawn_shoot_0
+  - first:
+      213: 5924238622791552582
+    second: spawn_shoot_1
+  - first:
+      213: 2006805365386402215
+    second: spawn_shoot_2
+  - first:
+      213: -3568802578683202614
+    second: spawn_shoot_3
+  - first:
+      213: -6995951944463661825
+    second: spawn_shoot_4
+  - first:
+      213: -4001628789098891087
+    second: spawn_shoot_5
+  - first:
+      213: -8790641017605939789
+    second: spawn_shoot_6
+  - first:
+      213: 4755107973472114885
+    second: spawn_shoot_7
+  - first:
+      213: 6157566600248502378
+    second: spawn_shoot_8
+  - first:
+      213: 3885655952929580718
+    second: spawn_shoot_9
+  - first:
+      213: -6391705500205158349
+    second: spawn_shoot_10
+  - first:
+      213: 7533772894488754520
+    second: spawn_shoot_11
+  - first:
+      213: 8465232861735222832
+    second: spawn_shoot_12
+  - first:
+      213: -1306538489811195619
+    second: spawn_shoot_13
+  - first:
+      213: 7464428087887978934
+    second: spawn_shoot_14
+  - first:
+      213: -603244780247222372
+    second: spawn_shoot_15
+  - first:
+      213: -8838549611451796525
+    second: spawn_shoot_16
+  - first:
+      213: -1219063833598386870
+    second: spawn_shoot_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 2
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spawn_shoot_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 12
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd697f8e018dbca20800000000000000
+      internalID: 3083795937004852955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawn_shoot_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 12
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ec324b3af173250800000000000000
+      internalID: 5924238622791552582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawn_shoot_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 12
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a95439e8da99db10800000000000000
+      internalID: 2006805365386402215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawn_shoot_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 12
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac3f61886f0197ec0800000000000000
+      internalID: -3568802578683202614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawn_shoot_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 12
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff44a8cc5c269ee90800000000000000
+      internalID: -6995951944463661825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawn_shoot_5
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 12
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8b8ce51db5778c0800000000000000
+      internalID: -4001628789098891087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawn_shoot_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 12
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd9e9db19e510680800000000000000
+      internalID: -8790641017605939789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawn_shoot_7
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 12
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8de6b12898df140800000000000000
+      internalID: 4755107973472114885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spawn_shoot_8
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 12
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a682f90e232147550800000000000000
+      internalID: 6157566600248502378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0cf4042eff354c442a99e7003b354f61
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      spawn_shoot_0: 3083795937004852955
+      spawn_shoot_1: 5924238622791552582
+      spawn_shoot_10: -6391705500205158349
+      spawn_shoot_11: 7533772894488754520
+      spawn_shoot_12: 8465232861735222832
+      spawn_shoot_13: -1306538489811195619
+      spawn_shoot_14: 7464428087887978934
+      spawn_shoot_15: -603244780247222372
+      spawn_shoot_16: -8838549611451796525
+      spawn_shoot_17: -1219063833598386870
+      spawn_shoot_2: 2006805365386402215
+      spawn_shoot_3: -3568802578683202614
+      spawn_shoot_4: -6995951944463661825
+      spawn_shoot_5: -4001628789098891087
+      spawn_shoot_6: -8790641017605939789
+      spawn_shoot_7: 4755107973472114885
+      spawn_shoot_8: 6157566600248502378
+      spawn_shoot_9: 3885655952929580718
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
